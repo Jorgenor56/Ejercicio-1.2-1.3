@@ -6,7 +6,7 @@ import java.io.IOException;
 
 public class GenerarArchivoNotasMedias {
     public static void main(String[] args) {
-        // Ruta para los archivos, actualizar si es necesario
+        //Ruta para los archivos, actualizar si es necesario
         String archivoEntrada = "C:\\Users\\Jorge\\OneDrive\\Escritorio\\CICLO\\AD\\Archivos\\alumnosNotas.txt";
         String archivoSalida = "C:\\Users\\Jorge\\OneDrive\\Escritorio\\CICLO\\AD\\Archivos\\alumnosMedias.txt";
 
